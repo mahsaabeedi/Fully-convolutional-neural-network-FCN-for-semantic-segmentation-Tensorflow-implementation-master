@@ -51,10 +51,3 @@ The net was tested on a dataset of annotated images of materials in glass vessel
 This dataset can be downloaded from [here](https://drive.google.com/file/d/0B6njwynsu2hXRFpmY1pOV1A4SFE/view?usp=sharing)
 
 MIT Scene Parsing Benchmark with over 20k pixel-wise annotated images can also be used for training and can be download from [here](http://sceneparsing.csail.mit.edu/)
-
-## Trained model
-[Glass and transparent vessel recognition trained model](https://mega.nz/#!5K4jTB5D!J7KURngJe3Z7GJaXBPkqg54r9enn-7KyoZ4Y8HU2FhY)
-
-[Liquid Solid chemical phases recognition in transparent glassware trained model](https://mega.nz/#!tG5WQAjJ!DjBQIne6jkkmwLU0m76HG6HvEQJ5c4AzpzUVQ2oqbDM)
-
-## For New more accurate version of the net focused on recognition of materials in transparent vessels see this [link](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net)
